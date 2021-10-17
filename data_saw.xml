@@ -1,0 +1,30 @@
+<root>
+	<element>
+		<idBuku>100009</idBuku>
+		<namaBuku>Buku Fisika 3</namaBuku>
+		<penerbit>PT. PENERBIT ABADI</penerbit>
+		<pengarang>Sulaketep</pengarang>
+		<stokBuku>0</stokBuku>
+	</element>
+	<element>
+		<idBuku>100010</idBuku>
+		<namaBuku>Web Semantik</namaBuku>
+		<penerbit>Cahayo Minang</penerbit>
+		<pengarang>Paulus Saiful</pengarang>
+		<stokBuku>0</stokBuku>
+	</element>
+	<element>
+		<idBuku>100011</idBuku>
+		<namaBuku>Harry Potter</namaBuku>
+		<penerbit>Jk rowling</penerbit>
+		<pengarang>tes</pengarang>
+		<stokBuku>0</stokBuku>
+	</element>
+	<element>
+		<idBuku>100019</idBuku>
+		<namaBuku>asda</namaBuku>
+		<penerbit>1231</penerbit>
+		<pengarang>1231</pengarang>
+		<stokBuku>0</stokBuku>
+	</element>
+</root>

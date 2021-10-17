@@ -1,0 +1,30 @@
+[
+    {
+        "idBuku": "100009",
+        "namaBuku": "Buku Fisika 3",
+        "penerbit": "PT. PENERBIT ABADI",
+        "pengarang": "Sulaketep",
+        "stokBuku": "0"
+    },
+    {
+        "idBuku": "100010",
+        "namaBuku": "Web Semantik",
+        "penerbit": "Cahayo Minang",
+        "pengarang": "Paulus Saiful",
+        "stokBuku": "0"
+    },
+    {
+        "idBuku": "100011",
+        "namaBuku": "Harry Potter",
+        "penerbit": "Jk rowling",
+        "pengarang": "tes",
+        "stokBuku": "0"
+    },
+    {
+        "idBuku": "100019",
+        "namaBuku": "asda",
+        "penerbit": "1231",
+        "pengarang": "1231",
+        "stokBuku": "0"
+    }
+]
