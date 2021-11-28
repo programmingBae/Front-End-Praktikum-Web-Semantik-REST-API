@@ -12,7 +12,8 @@
 	},
 	"require": {
 		"php": ">=5.3.7",
-		"guzzlehttp/guzzle": "~6.0"
+		"guzzlehttp/guzzle": "~6.0",
+		"webonyx/graphql-php": "^14.9"
 	},
 	"suggest": {
 		"paragonie/random_compat": "Provides better randomness in PHP 5.x"
